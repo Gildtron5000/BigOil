@@ -1,9 +1,4 @@
 {"nodes":[
-{"name":"Industrial"},
-{"name":"Transportation"},
-{"name":"Residential"},
-{"name":"Commercial"},
-{"name":"Electricity Generation"},
 {"name":"Solar"},
 {"name":"Wind"},
 {"name":"Geothermal"},
@@ -12,6 +7,11 @@
 {"name":"Biomass"},
 {"name":"Natural Gas"},
 {"name":"Oil"},
+{"name":"Electricity Generation"},
+{"name":"Industrial"},
+{"name":"Transportation"},
+{"name":"Residential"},
+{"name":"Commercial"}
 ],
 "links":[
 {"source":0,"target":1,"value":124.729},
